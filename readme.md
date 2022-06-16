@@ -1,4 +1,4 @@
-# 3D Multi-Object Tracker
+# Code for PC3T 3D Multi-Object Tracker (2022.3D Multi-Object Tracking in Point Clouds Based on Prediction Confidence-Guided Data Association)
 This project is developed for tracking multiple objects in 3D scene. The visualization code is from
 [here](https://github.com/hailanyi/3D-Detection-Tracking-Viewer).
 ![](./doc/demo.gif)
